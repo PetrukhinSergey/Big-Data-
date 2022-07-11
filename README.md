@@ -1,6 +1,6 @@
-Займись тем, что тебе нравится, 
-и ты не будешь работать ни дня в своей жизни
-Конфуций
+**<sub>Займись тем, что тебе нравится, 
+и ты не будешь работать ни дня в своей жизни<sub>**
+<sub>*Конфуций*<sub>
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
