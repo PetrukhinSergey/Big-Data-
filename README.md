@@ -5,29 +5,21 @@
 <sub>Конфуций<sub></h4>
 <h4 align="left">О себе</h4>
 Мне всегда нравилось работать с данными, структурировать их, находить взаимосвязи, анализировать результаты, выявлять инсайты и находить причины проблем. Получать моральное удовлетворение от решенной задачи - это неимоверный кайф...<br> Но с каждым годом профиль работы отдалял меня от аналитик. Поэтому было принято однозначное решение о смене трудовой деятельности...<br>
+<h4 align="left">SOFT SKILLS</h4>
+- работа в команде;
+<h4 align="left">HARD SKILLS</h4>
+  
+![](https://img.shields.io/badge/Excel-+++++-4AB197)
+![](https://img.shields.io/badge/Google_Sheets-+++++-4AB197)
+![](https://img.shields.io/badge/SQL-+++-4AB197)
+![](https://img.shields.io/badge/PostgreSQL-+++-4AB197)  
+![](https://img.shields.io/badge/Python-++-4AB197)
+![](https://img.shields.io/badge/PANDAS-++-4AB197)
+![](https://img.shields.io/badge/Spark-++-4AB197)
+![](https://img.shields.io/badge/Matplotlib-++-4AB197)
+![](https://img.shields.io/badge/PowerBI-+++-4AB197)
+![](https://img.shields.io/badge/Tableau-+++-4AB197)
 
-![](https://img.shields.io/badge/SQL-white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-:v:-informational?style=flat&logo=4AB197)<br>
-
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=:star:&logoColor=white&color=4AB197)<br>
-
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-...
-<details>
-<summary>More Skills</summary>
-
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
