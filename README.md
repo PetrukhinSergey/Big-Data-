@@ -23,6 +23,12 @@
 ![](https://img.shields.io/badge/PowerBI-+++-4AB197)
 ![](https://img.shields.io/badge/Tableau-+++-4AB197)
 
+<details>
+ <summary><h4>Сертификаты</h4></summary
+<div align="right">...на хлеб их не намажешь, а скрывать жалко</div>
+
+<details>
+
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
