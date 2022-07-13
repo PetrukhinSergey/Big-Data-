@@ -26,9 +26,11 @@
 <details>
  <summary><h4>Сертификаты</h4></summary
 <div align="right">...на хлеб их не намажешь, а скрывать жалко</div><br>
-![Certificate_BigData](https://user-images.githubusercontent.com/108893866/178802880-25e0ec5a-51aa-4080-a9ee-72267102b581.png)
-![Certificate_DataVizArt](https://user-images.githubusercontent.com/108893866/178803320-2836a72e-e9a6-439e-9dcb-3de27d67ad11.png)
-
+![Основы аналитики](https://user-images.githubusercontent.com/108893866/178805008-3271004f-620e-4d35-8780-016e91f8bbf9.png)
+![BIG DATA с нуля](https://user-images.githubusercontent.com/108893866/178802880-25e0ec5a-51aa-4080-a9ee-72267102b581.png)
+![DataVizArt](https://user-images.githubusercontent.com/108893866/178803320-2836a72e-e9a6-439e-9dcb-3de27d67ad11.png)
+![SQL и получение данных](https://user-images.githubusercontent.com/108893866/178804803-2f5dfc56-0880-4025-ac80-91be62d7f92e.png)
+![Метрики](https://user-images.githubusercontent.com/108893866/178804864-4f183477-1651-4cb0-b709-18c04732bc39.png)
 <details>
 
 <!--
