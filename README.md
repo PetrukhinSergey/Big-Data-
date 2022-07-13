@@ -25,7 +25,8 @@
 
 <details>
  <summary><h4>Сертификаты</h4></summary
-<div align="right">...на хлеб их не намажешь, а скрывать жалко</div>
+<div align="right">...на хлеб их не намажешь, а скрывать жалко</div><br>
+![Certificate_BigData](https://user-images.githubusercontent.com/108893866/178802880-25e0ec5a-51aa-4080-a9ee-72267102b581.png)
 
 <details>
 
