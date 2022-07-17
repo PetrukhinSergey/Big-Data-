@@ -29,11 +29,11 @@
 _на хлеб их не намажешь, на стены не приклеишь... А здесь самое место_ :trophy:
    
 * <a href="https://user-images.githubusercontent.com/108893866/178805008-3271004f-620e-4d35-8780-016e91f8bbf9.png" target="_blank">Основы аналитики</a><br>
-* <a href="https://user-images.githubusercontent.com/108893866/178802880-25e0ec5a-51aa-4080-a9ee-72267102b581.png)" target="_blank">BIG DATA с нуля</a><br>  
-* <a href="https://user-images.githubusercontent.com/108893866/178803320-2836a72e-e9a6-439e-9dcb-3de27d67ad11.png)" target="_blank">DataVizArt</a><br>  
-* <a href="https://user-images.githubusercontent.com/108893866/178804803-2f5dfc56-0880-4025-ac80-91be62d7f92e.png)" target="_blank">SQL и получение данных</a><br>  
-* <a href="https://user-images.githubusercontent.com/108893866/178804864-4f183477-1651-4cb0-b709-18c04732bc39.png)" target="_blank">Метрики, гипотезы</a><br>
-* <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png)" target="_blank">Управление проектами по анализу данных</a>
+* <a href="https://user-images.githubusercontent.com/108893866/178802880-25e0ec5a-51aa-4080-a9ee-72267102b581.png" target="_blank">BIG DATA с нуля</a><br>  
+* <a href="https://user-images.githubusercontent.com/108893866/178803320-2836a72e-e9a6-439e-9dcb-3de27d67ad11.png" target="_blank">DataVizArt</a><br>  
+* <a href="https://user-images.githubusercontent.com/108893866/178804803-2f5dfc56-0880-4025-ac80-91be62d7f92e.png" target="_blank">SQL и получение данных</a><br>  
+* <a href="https://user-images.githubusercontent.com/108893866/178804864-4f183477-1651-4cb0-b709-18c04732bc39.png" target="_blank">Метрики, гипотезы</a><br>
+* <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png" target="_blank">Управление проектами по анализу данных</a>
 
    
 <!--
