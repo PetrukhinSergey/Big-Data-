@@ -36,8 +36,7 @@ _на хлеб их не намажешь, на стены не приклеиш
 * <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png" target="_blank">Управление проектами по анализу данных</a>
 </details>
 
-<a href="https://api.whatsapp.com/send?phone=<+79199307283>">Прямая связь</a>
-<a href="https://wa.me/<+79199307283>">Telegram</a>
+https://tgrm.github.io/taraflex
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
