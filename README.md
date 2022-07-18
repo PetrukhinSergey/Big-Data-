@@ -36,6 +36,7 @@ _на хлеб их не намажешь, на стены не приклеиш
 * <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png" target="_blank">Управление проектами по анализу данных</a>
 </details>
 
+[@PSV_Tuymen](http://t-do.ru/PSV_Tuymen "Telegram channel")
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
