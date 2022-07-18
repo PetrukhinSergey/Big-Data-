@@ -36,7 +36,10 @@ _на хлеб их не намажешь, на стены не приклеиш
 * <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png" target="_blank">Управление проектами по анализу данных</a>
 </details>
 
-https://tgrm.github.io/taraflex
+![tg](https://user-images.githubusercontent.com/108893866/179561035-34a963d6-d3f0-4979-8108-118d814105ff.png)
+<a href="https://tgrm.github.io/PSV_Tuymen" tatget="_blank">TELEGRAM</a>
+
+ 
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
