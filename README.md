@@ -37,6 +37,7 @@ _на хлеб их не намажешь, на стены не приклеиш
 </details>
 
 <a href="https://api.whatsapp.com/send?phone=<+79199307283>">Прямая связь</a>
+<a href="https://wa.me/<+79199307283>">Telegram</a>
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
