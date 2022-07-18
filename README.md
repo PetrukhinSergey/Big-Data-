@@ -36,11 +36,12 @@ _на хлеб их не намажешь, на стены не приклеиш
 * <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png" target="_blank">Управление проектами по анализу данных</a>
 </details>
 
-![tg](https://user-images.githubusercontent.com/108893866/179561035-34a963d6-d3f0-4979-8108-118d814105ff.png)
-<a href="https://tgrm.github.io/PSV_Tuymen" tatget="_blank">TELEGRAM</a>
-![2504957](https://user-images.githubusercontent.com/108893866/179562755-02c7e49d-27e1-4b06-ac11-79ee24026bf5.png)
-<a href="https://api.whatsapp.com/send?phone=<+79199307283>">WhatsApp</a>
+<h4 align="left">Для связи:</h4>
 
+![telegram_icon-icons com_53603](https://user-images.githubusercontent.com/108893866/179564590-89ff20e0-d739-40e7-a12a-2ba0db8a262e.png)
+<a href="https://tgrm.github.io/PSV_Tuymen" tatget="_blank">Telegram</a>
+![whatsapp_socialnetwork_17360](https://user-images.githubusercontent.com/108893866/179564189-a40477d7-14c2-43b1-8a13-0dce2585ccf3.png)
+<a href="https://api.whatsapp.com/send?phone=<+79199307283>">WhatsApp</a>
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
