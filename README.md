@@ -38,8 +38,9 @@ _на хлеб их не намажешь, на стены не приклеиш
 
 ![tg](https://user-images.githubusercontent.com/108893866/179561035-34a963d6-d3f0-4979-8108-118d814105ff.png)
 <a href="https://tgrm.github.io/PSV_Tuymen" tatget="_blank">TELEGRAM</a>
+![2504957](https://user-images.githubusercontent.com/108893866/179562755-02c7e49d-27e1-4b06-ac11-79ee24026bf5.png)
+<a href="https://api.whatsapp.com/send?phone=<+79199307283>">WhatsApp</a>
 
- 
 
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
