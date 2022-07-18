@@ -34,8 +34,9 @@ _на хлеб их не намажешь, на стены не приклеиш
 * <a href="https://user-images.githubusercontent.com/108893866/178804803-2f5dfc56-0880-4025-ac80-91be62d7f92e.png" target="_blank">SQL и получение данных</a><br>  
 * <a href="https://user-images.githubusercontent.com/108893866/178804864-4f183477-1651-4cb0-b709-18c04732bc39.png" target="_blank">Метрики, гипотезы</a><br>
 * <a href="https://user-images.githubusercontent.com/108893866/178999923-84e9f74b-4943-4951-a18b-0c5d642c0487.png" target="_blank">Управление проектами по анализу данных</a>
+</details>
 
-   
+
 <!--
 **PetrukhinSergey/PetrukhinSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
