@@ -14,6 +14,7 @@
   
 ![](https://img.shields.io/badge/Excel-+++++-4AB197)
 ![](https://img.shields.io/badge/Google_Sheets-+++++-4AB197)
+![](https://img.shields.io/badge/Power_Query-++++-4AB197)
 ![](https://img.shields.io/badge/SQL-+++-4AB197)
 ![](https://img.shields.io/badge/PostgreSQL-+++-4AB197)  
 ![](https://img.shields.io/badge/Python-++-4AB197)
