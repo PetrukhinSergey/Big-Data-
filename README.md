@@ -12,17 +12,17 @@
 
 <h4 align="left">HARD SKILLS</h4>
   
-![](https://img.shields.io/badge/Excel-+++++-4AB197)
-![](https://img.shields.io/badge/Google_Sheets-+++++-4AB197)
-![](https://img.shields.io/badge/Power_Query-++++-4AB197)
-![](https://img.shields.io/badge/SQL-+++-4AB197)
-![](https://img.shields.io/badge/PostgreSQL-+++-4AB197)  
-![](https://img.shields.io/badge/Python-++-4AB197)
-![](https://img.shields.io/badge/PANDAS-++-4AB197)
-![](https://img.shields.io/badge/Spark-++-4AB197)
-![](https://img.shields.io/badge/Matplotlib-++-4AB197)
-![](https://img.shields.io/badge/PowerBI-+++-4AB197)
-![](https://img.shields.io/badge/Tableau-+++-4AB197)
+![](https://img.shields.io/badge/Excel-продвинутый-4AB197)
+![](https://img.shields.io/badge/Google_Sheets-продвинутый-4AB197)
+![](https://img.shields.io/badge/Power_Query-уверенный-4AB197)
+![](https://img.shields.io/badge/Access-продвинутый-4AB197)
+![](https://img.shields.io/badge/SQL-уверенный-4AB197)
+![](https://img.shields.io/badge/PostgreSQL-уверенный-4AB197)  
+![](https://img.shields.io/badge/Python-средний-4AB197)
+![](https://img.shields.io/badge/Machine_Learning-базовый-4AB197)
+![](https://img.shields.io/badge/Matplotlib-базовый-4AB197)
+![](https://img.shields.io/badge/PowerBI-средний-4AB197)
+![](https://img.shields.io/badge/Tableau-средний-4AB197)
 
 <details>
  <summary><h4>Сертификаты</h4></summary
