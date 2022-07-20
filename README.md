@@ -14,11 +14,12 @@
   
 ![](https://img.shields.io/badge/Excel-продвинутый-4AB197)
 ![](https://img.shields.io/badge/Google_Sheets-продвинутый-4AB197)
-![](https://img.shields.io/badge/Power_Query-уверенный-4AB197)
+![](https://img.shields.io/badge/Query-уверенный-4AB197)
 ![](https://img.shields.io/badge/Access-продвинутый-4AB197)
 ![](https://img.shields.io/badge/SQL-уверенный-4AB197)
 ![](https://img.shields.io/badge/PostgreSQL-уверенный-4AB197)
 ![](https://img.shields.io/badge/Python-средний-4AB197)
+![](https://img.shields.io/badge/A/B_test-средний-4AB197)
 ![](https://img.shields.io/badge/Machine_Learning-базовый-4AB197)
 ![](https://img.shields.io/badge/Matplotlib-базовый-4AB197)
 ![](https://img.shields.io/badge/PowerBI-средний-4AB197)
