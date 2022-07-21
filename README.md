@@ -5,7 +5,13 @@
 <sub>Конфуций<sub></h4>
 <h4 align="left">О себе</h4>
 Мне всегда нравилось работать с данными, структурировать их, находить взаимосвязи, анализировать результаты, выявлять инсайты и находить причины проблем. Получать моральное удовлетворение от решенной задачи - это неимоверный кайф...<br> Но с каждым годом профиль работы отдалял меня от аналитики.  Поэтому было принято однозначное решение о смене трудовой деятельности...<br>
-<h4 align="right"><a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9158496/default.pdf" target="_blank">РЕЗЮМЕ.pdf</a>
+
+<details>
+ <summary><h4>РЕЗЮМЕ</h4></summary
+ 
+<a href="https://user-images.githubusercontent.com/108893866/180283884-6b33f3b4-1ff6-4ff8-b971-79791b11e7a7.png" target="_blank">Открыть</a>  
+<a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9158496/default.pdf" target="_blank">Скачать.pdf</a>
+ </details>
 
 <h4 align="left">SOFT SKILLS</h4>
 <div align="center"> <pre><code class="language-c">  #Работа в команде   #Ведение переговоров   #Управление конфликтами   #Режим многозадачности   #Стрессоустойчивость
