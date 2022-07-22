@@ -20,18 +20,12 @@
 
 <h4 align="left">HARD SKILLS</h4>
   
-![](https://img.shields.io/badge/Excel-продвинутый-4AB197)
-![](https://img.shields.io/badge/Google_Sheets-продвинутый-4AB197)
-![](https://img.shields.io/badge/Query-уверенный-4AB197)
-![](https://img.shields.io/badge/Access-продвинутый-4AB197)
-![](https://img.shields.io/badge/SQL-уверенный-4AB197)
-![](https://img.shields.io/badge/PostgreSQL-уверенный-4AB197)
-![](https://img.shields.io/badge/Python-средний-4AB197)
-![](https://img.shields.io/badge/A/B_test-средний-4AB197)
-![](https://img.shields.io/badge/Machine_Learning-базовый-4AB197)
-![](https://img.shields.io/badge/Matplotlib-базовый-4AB197)
-![](https://img.shields.io/badge/PowerBI-средний-4AB197)
-![](https://img.shields.io/badge/Tableau-средний-4AB197)
+![](https://img.shields.io/badge/Google_Data_Studio,_Excel-pivot,_vlookup,_query-4AB197)
+![](https://img.shields.io/badge/PostgreSQL-joins,_CTE,_subqueries,_window_functions-4AB197)
+![](https://img.shields.io/badge/Python-Pandas,_Seaborn,_Matplotlib,_Pyspark,_NumPy-4AB197)
+![](https://img.shields.io/badge/BI-Tableau,_Power_BI,_DataLens-4AB197)
+![](https://img.shields.io/badge/AB_test-experimental_control_group,_split_test-4AB197)
+![](https://img.shields.io/badge/ML-Linear_Regression,_Decision_Tree-4AB197)
 
 <details>
  <summary><h4>Сертификаты</h4></summary
