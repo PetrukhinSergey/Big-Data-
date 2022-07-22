@@ -9,8 +9,8 @@
 <details>
  <summary><h4>РЕЗЮМЕ</h4></summary
  
-<a href="https://user-images.githubusercontent.com/108893866/180283884-6b33f3b4-1ff6-4ff8-b971-79791b11e7a7.png" target="_blank">Открыть</a>  
-<a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9161746/_Data_._.pdf" target="_blank">Скачать.pdf</a>
+<a href="https://user-images.githubusercontent.com/108893866/180402267-08c4b54f-9ff1-4c95-a3a2-18e351231843.png" target="_blank">Открыть</a>  
+<a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9166230/_Data_._.pdf" target="_blank">Скачать.pdf</a>
  </details>
 
 <h4 align="left">SOFT SKILLS</h4>
