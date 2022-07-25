@@ -7,10 +7,8 @@
 Мне всегда нравилось работать с данными, структурировать их, находить взаимосвязи, анализировать результаты, выявлять инсайты и находить причины проблем. Получать моральное удовлетворение от решенной задачи - это неимоверный кайф...<br> Но с каждым годом профиль работы отдалял меня от аналитики.  Поэтому было принято однозначное решение о смене трудовой деятельности...<br>
 
 <details>
- <summary><h4>РЕЗЮМЕ</h4>
-
-![214815](https://user-images.githubusercontent.com/108893866/180833059-be5ffe5e-1496-4758-8318-759c3b47f9a1.png)
-</summary 
+<summary><img src="https://user-images.githubusercontent.com/108893866/180834299-c66f376d-08c7-4951-bd3b-e67d6b9f6e9e.png" width="130"/>
+</summary
  
 <a href="https://user-images.githubusercontent.com/108893866/180402267-08c4b54f-9ff1-4c95-a3a2-18e351231843.png" target="_blank">Открыть</a>  
 <a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9166230/_Data_._.pdf" target="_blank">Скачать.pdf</a>
