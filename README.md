@@ -10,12 +10,9 @@
 <summary><img src="https://user-images.githubusercontent.com/108893866/180834299-c66f376d-08c7-4951-bd3b-e67d6b9f6e9e.png" width="130"/>
 </summary
  
-<a href="https://user-images.githubusercontent.com/108893866/182079253-ad6b2ed8-c2fc-456b-9cec-1888c5cb25fc.png">Открыть.pdf</a>
+<a href="https://user-images.githubusercontent.com/108893866/182079253-ad6b2ed8-c2fc-456b-9cec-1888c5cb25fc.png">Открыть.pdf</a>  
+<a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9231169/_Data_Analyst_.pdf">Скачать.pdf</a>
  </details>
-
-[Резюме_Data_Analyst_Петрухин.pdf](https://github.com/PetrukhinSergey/PetrukhinSergey/files/9231169/_Data_Analyst_.pdf)
-
-![Резюме_Data_Analyst_Петрухин]()
 
 <h4 align="left">SOFT SKILLS</h4>
 <div align="center"> <pre><code class="language-c">  #Работа в команде   #Ведение переговоров   #Управление конфликтами   #Режим многозадачности   #Стрессоустойчивость
