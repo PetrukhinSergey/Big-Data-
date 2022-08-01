@@ -12,7 +12,9 @@
  
 <a href="https://github.com/PetrukhinSergey/PetrukhinSergey/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Data_Analyst_%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%85%D0%B8%D0%BD.pdf_blank">Открыть.pdf</a>
  </details>
- 
+
+https://github.com/PetrukhinSergey/PetrukhinSergey/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Data_Analyst_%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%85%D0%B8%D0%BD.pdf 
+
 <h4 align="left">SOFT SKILLS</h4>
 <div align="center"> <pre><code class="language-c">  #Работа в команде   #Ведение переговоров   #Управление конфликтами   #Режим многозадачности   #Стрессоустойчивость
 #Управление конфликтами   #Критическое мышление   #Дисциплина   #SMART   #Адаптивность
