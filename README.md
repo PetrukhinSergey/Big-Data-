@@ -6,14 +6,6 @@
 <h4 align="left">О себе</h4>
 Мне всегда нравилось работать с данными, структурировать их, находить взаимосвязи, анализировать результаты, выявлять инсайты и находить причины проблем. Получать моральное удовлетворение от решенной задачи - это неимоверный кайф...<br> Но с каждым годом профиль работы отдалял меня от аналитики.  Поэтому было принято однозначное решение о смене трудовой деятельности...<br>
 
-<details>
-<summary><img src="https://user-images.githubusercontent.com/108893866/180834299-c66f376d-08c7-4951-bd3b-e67d6b9f6e9e.png" width="130"/>
-</summary
- 
-<a href="https://user-images.githubusercontent.com/108893866/182079253-ad6b2ed8-c2fc-456b-9cec-1888c5cb25fc.png">Открыть.pdf</a>  
-<a href="https://github.com/PetrukhinSergey/PetrukhinSergey/files/9231169/_Data_Analyst_.pdf">Скачать.pdf</a>
- </details>
-
 <h4 align="left">SOFT SKILLS</h4>
 <div align="center"> <pre><code class="language-c">  #Работа в команде   #Ведение переговоров   #Управление конфликтами   #Режим многозадачности   #Стрессоустойчивость
 #Управление конфликтами   #Критическое мышление   #Дисциплина   #SMART   #Адаптивность
@@ -22,7 +14,8 @@
 <h4 align="left">HARD SKILLS</h4>
   
 ![](https://img.shields.io/badge/Google_Data_Studio,_Excel-pivot,_vlookup,_query-4AB197)
-![](https://img.shields.io/badge/PostgreSQL-joins,_CTE,_subqueries,_window_functions-4AB197)
+![](https://img.shields.io/badge/PgSQL-joins,_CTE,_subqueries,_window_functions-4AB197)
+![](https://img.shields.io/badge/СУБД-Postgre,_Oracle-4AB197)
 ![](https://img.shields.io/badge/Python-Pandas,_Seaborn,_Matplotlib,_Pyspark,_NumPy-4AB197)
 ![](https://img.shields.io/badge/BI-Tableau,_Power_BI,_DataLens-4AB197)
 ![](https://img.shields.io/badge/AB_test-experimental_control_group,_split_test-4AB197)
